@@ -1,0 +1,16 @@
+
+.playBut {
+    font-size: 13px;
+    width: 100px;
+    height: 20px;
+    background-color: bisque
+}
+body {
+    text-align: center;
+    flex-direction: column;
+    background-image: url("https://external-preview.redd.it/Epx_9Ir_QNw62dNzfex-pJ0O_W2i-Rhm2ME-8w6D9nk.png?width=640&crop=smart&format=pjpg&auto=webp&s=8f2e03df7618c022ffb77feecabc55e577765d31");
+    background-size: 38%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
